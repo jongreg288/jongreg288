@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: message me on github
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: I prefer amaturenouns.
+- ⚡ Fun fact: The brightest part of a shadow is the middle.
 
 <!---
 jongreg288/jongreg288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
